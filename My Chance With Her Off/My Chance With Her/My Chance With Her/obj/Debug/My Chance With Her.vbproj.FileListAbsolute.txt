@@ -1,0 +1,26 @@
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.exe.config
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.vbprojResolveAssemblyReference.cache
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My_Chance_With_Her.Form1.resources
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My_Chance_With_Her.Resources.resources
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.vbproj.GenerateResource.Cache
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.xml
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.exe
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.pdb
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.xml
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.exe
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.pdb
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.exe.config
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.exe
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.xml
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.pdb
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.vbprojResolveAssemblyReference.cache
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\obj\Debug\My_Chance_With_Her.Form1.resources
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\obj\Debug\My_Chance_With_Her.Resources.resources
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.vbproj.GenerateResource.Cache
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.exe
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.pdb
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.xml
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her Off\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.exe.config
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her Off\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.exe
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her Off\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.xml
+C:\Users\khalids\Documents\Visual Studio 2015\Projects\My Chance With Her Off\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.pdb

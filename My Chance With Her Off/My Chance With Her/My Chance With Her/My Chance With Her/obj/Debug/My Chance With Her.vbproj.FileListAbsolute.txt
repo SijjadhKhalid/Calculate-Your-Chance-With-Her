@@ -1,0 +1,11 @@
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.exe.config
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.vbprojResolveAssemblyReference.cache
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My_Chance_With_Her.Form1.resources
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My_Chance_With_Her.Resources.resources
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.vbproj.GenerateResource.Cache
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.xml
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.exe
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.pdb
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\bin\Debug\My Chance With Her.xml
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.exe
+c:\users\zeshan\documents\visual studio 2015\Projects\My Chance With Her\My Chance With Her\obj\Debug\My Chance With Her.pdb
